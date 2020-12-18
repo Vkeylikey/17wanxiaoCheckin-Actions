@@ -294,4 +294,4 @@ git gc --aggressive --prune=all     # remove the old files
 
 如果你觉得该教程写得还可以且有帮到你的话，欢迎给我打赏一杯奶茶~~
 
-<img src="https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/支付宝.jpg" width="300"/><img src="https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/微信.png" width="300"/>
+<img src="https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/支付宝.jpg" width="300"/><img src="https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/微信.png" width="300"/>  
